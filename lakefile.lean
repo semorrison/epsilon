@@ -2,7 +2,7 @@ import Lake
 
 open Lake DSL
 
-package epsilon
+package Epsilon
 
 @[defaultTarget]
-lean_lib epsilon
+lean_lib Epsilon
